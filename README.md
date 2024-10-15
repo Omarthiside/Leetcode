@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Omarthiside/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Omarthiside/Leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Omarthiside/Leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -46,10 +47,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Omarthiside/Leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Omarthiside/Leetcode/tree/master/0242-valid-anagram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Omarthiside/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Simulation
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Omarthiside/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Omarthiside/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
