@@ -1,24 +1,29 @@
 class Solution {
- public:
-  long long maximumSubarraySum(vector<int>& nums, int k) {
-    long ans = 0;
-    long sum = 0;
-    int distinct = 0;
-    unordered_map<int, int> count;
-
-    for (int i = 0; i < nums.size(); ++i) {
-      sum += nums[i];
-      if (++count[nums[i]] == 1)
-        ++distinct;
-      if (i >= k) {
-        if (--count[nums[i - k]] == 0)
-          --distinct;
-        sum -= nums[i - k];
-      }
-      if (i >= k - 1 && distinct == k)
-        ans = max(ans, sum);
+public:
+    long long maximumSubarraySum(vector<int>& nums, int k) {
+        const int n = nums.size();
+        long long result = 0;
+        long long currWindow = 0;
+        unordered_set<int> st;
+        int i=0;
+        int j=0;
+        while(j<n){
+            while(st.count(nums[j])){
+                currWindow-=nums[i];
+                st.erase(nums[i]);
+                i++;
+            }
+            currWindow+=nums[j];
+            st.insert(nums[j]);
+            
+            if(j-i+1 == k){
+                result = max(result, currWindow);
+                currWindow-=nums[i];
+                st.erase(nums[i]);
+                i++;
+            }
+            j++;
+        }
+        return result;
     }
-
-    return ans;
-  }
 };
