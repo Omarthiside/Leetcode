@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Omarthiside/Leetcode/tree/master/0283-move-zeroes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Omarthiside/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1755-defuse-the-bomb](https://github.com/Omarthiside/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Omarthiside/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Omarthiside/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Omarthiside/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Omarthiside/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Omarthiside/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Omarthiside/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Math
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Omarthiside/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Omarthiside/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Omarthiside/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+## Matrix
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Omarthiside/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
