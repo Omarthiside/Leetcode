@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Omarthiside/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Omarthiside/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Omarthiside/Leetcode/tree/master/0283-move-zeroes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Omarthiside/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Omarthiside/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1755-defuse-the-bomb](https://github.com/Omarthiside/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Omarthiside/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Omarthiside/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Omarthiside/Leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Omarthiside/Leetcode/tree/master/0242-valid-anagram) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Omarthiside/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Omarthiside/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Omarthiside/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Two Pointers
@@ -100,5 +102,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Omarthiside/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Omarthiside/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
