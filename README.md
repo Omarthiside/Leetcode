@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Omarthiside/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Omarthiside/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Omarthiside/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Omarthiside/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Omarthiside/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Omarthiside/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Omarthiside/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -115,24 +116,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/Omarthiside/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Omarthiside/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Omarthiside/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Omarthiside/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Omarthiside/Leetcode/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Omarthiside/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Omarthiside/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Omarthiside/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Omarthiside/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Omarthiside/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Omarthiside/Leetcode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Omarthiside/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Omarthiside/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Omarthiside/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Omarthiside/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Omarthiside/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 <!---LeetCode Topics End-->
