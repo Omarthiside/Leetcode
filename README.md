@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Omarthiside/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1972-rotating-the-box](https://github.com/Omarthiside/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Omarthiside/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2232-adding-spaces-to-a-string](https://github.com/Omarthiside/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Omarthiside/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Omarthiside/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Omarthiside/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Omarthiside/Leetcode/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Omarthiside/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/Omarthiside/Leetcode/tree/master/1972-rotating-the-box) |
+| [2232-adding-spaces-to-a-string](https://github.com/Omarthiside/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Omarthiside/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3195-separate-black-and-white-balls](https://github.com/Omarthiside/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Omarthiside/Leetcode/tree/master/0242-valid-anagram) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Omarthiside/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Omarthiside/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2232-adding-spaces-to-a-string](https://github.com/Omarthiside/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Omarthiside/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3195-separate-black-and-white-balls](https://github.com/Omarthiside/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3312-number-of-changing-keys](https://github.com/Omarthiside/Leetcode/tree/master/3312-number-of-changing-keys) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Omarthiside/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2232-adding-spaces-to-a-string](https://github.com/Omarthiside/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Omarthiside/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Math
 |  |
