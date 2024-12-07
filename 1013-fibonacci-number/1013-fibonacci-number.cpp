@@ -1,0 +1,13 @@
+class Solution {
+public:
+    int fib(int n) {
+        if(n==0){
+            return n;
+        }else if(n==1){
+            return n;
+        }
+        int a=fib(n-1);
+        int b=fib(n-2);
+        return a+b;
+    }
+};
