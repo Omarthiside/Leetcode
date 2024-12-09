@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/Omarthiside/Leetcode/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Omarthiside/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Omarthiside/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3527-alternating-groups-iii](https://github.com/Omarthiside/Leetcode/tree/master/3527-alternating-groups-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3427-special-array-ii](https://github.com/Omarthiside/Leetcode/tree/master/3427-special-array-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3527-alternating-groups-iii](https://github.com/Omarthiside/Leetcode/tree/master/3527-alternating-groups-iii) |
 <!---LeetCode Topics End-->
