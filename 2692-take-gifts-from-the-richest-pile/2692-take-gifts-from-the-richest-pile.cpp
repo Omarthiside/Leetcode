@@ -2,10 +2,19 @@ class Solution {
  public:
   long long pickGifts(vector<int>& gifts, int k) {
     while (k > 0) {
-        auto maxIt = max_element(gifts.begin(), gifts.end());
-        *maxIt = sqrt(*maxIt);
+        int maxIndex = 0;
+        for (int i = 1; i < gifts.size(); i++) {
+            if (gifts[i] > gifts[maxIndex]) {
+                maxIndex = i;
+            }
+        }
+        gifts[maxIndex] = sqrt(gifts[maxIndex]);
         k--;
     }
-    return accumulate(gifts.begin(), gifts.end(), 0LL);
+    long long totalSum = 0;
+    for (int gift : gifts) {
+        totalSum += gift;
+    }
+    return totalSum;
   }
 };
