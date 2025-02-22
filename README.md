@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Omarthiside/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Omarthiside/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Omarthiside/Leetcode/tree/master/0242-valid-anagram) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Omarthiside/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Omarthiside/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Omarthiside/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Omarthiside/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Omarthiside/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Omarthiside/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Omarthiside/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Omarthiside/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Omarthiside/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Omarthiside/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Omarthiside/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Omarthiside/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Omarthiside/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Omarthiside/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Omarthiside/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Omarthiside/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Omarthiside/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Omarthiside/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Omarthiside/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
