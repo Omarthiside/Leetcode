@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Omarthiside/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Omarthiside/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Omarthiside/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/Omarthiside/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Omarthiside/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Omarthiside/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Omarthiside/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Omarthiside/Leetcode/tree/master/0242-valid-anagram) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Omarthiside/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Omarthiside/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/Omarthiside/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Omarthiside/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Omarthiside/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Omarthiside/Leetcode/tree/master/1524-string-matching-in-an-array) |
