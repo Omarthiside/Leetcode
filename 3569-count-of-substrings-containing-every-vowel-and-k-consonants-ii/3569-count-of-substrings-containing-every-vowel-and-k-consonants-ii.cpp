@@ -1,13 +1,10 @@
 class Solution {
  public:
-  // Same as 3305. Count of Substrings Containing Every Vowel and K Consonants I
   long long countOfSubstrings(string word, int k) {
     return substringsWithAtMost(word, k) - substringsWithAtMost(word, k - 1);
   }
 
  private:
-  // Return the number of substrings containing every vowel with at most k
-  // consonants.
   long substringsWithAtMost(const string& word, int k) {
     if (k == -1)
       return 0;
@@ -34,9 +31,6 @@ class Solution {
         ++l;
       }
       if (uniqueVowels == 5)
-        // Add substrings containing every vowel with at most k consonants to
-        // the answer. They are
-        // word[l..r], word[l + 1..r], ..., word[min(vowelLastSeen[vowel])..r]
         res += min({vowelLastSeen['a'], vowelLastSeen['e'], vowelLastSeen['i'],
                     vowelLastSeen['o'], vowelLastSeen['u']}) -
                l + 1;
