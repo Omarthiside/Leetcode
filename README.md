@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Omarthiside/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Omarthiside/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Omarthiside/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Omarthiside/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Omarthiside/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Omarthiside/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Omarthiside/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Omarthiside/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Omarthiside/Leetcode/tree/master/0189-rotate-array) |
