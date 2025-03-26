@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Omarthiside/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Omarthiside/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Omarthiside/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Omarthiside/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Omarthiside/Leetcode/tree/master/0075-sort-colors) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Omarthiside/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Omarthiside/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Omarthiside/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Omarthiside/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Omarthiside/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Omarthiside/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Number Theory
 |  |
