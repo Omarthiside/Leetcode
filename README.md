@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Omarthiside/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Omarthiside/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Omarthiside/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Omarthiside/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Omarthiside/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Omarthiside/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Omarthiside/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Omarthiside/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Omarthiside/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Omarthiside/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Omarthiside/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Omarthiside/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Omarthiside/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Omarthiside/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Omarthiside/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Omarthiside/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Omarthiside/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Omarthiside/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Omarthiside/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Omarthiside/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Omarthiside/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Omarthiside/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Omarthiside/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Omarthiside/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Omarthiside/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Omarthiside/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Omarthiside/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Breadth-First Search
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Omarthiside/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Omarthiside/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Omarthiside/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Omarthiside/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Omarthiside/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Omarthiside/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Omarthiside/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -389,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Omarthiside/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/Omarthiside/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Omarthiside/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Omarthiside/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Omarthiside/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Omarthiside/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Omarthiside/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -521,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Omarthiside/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Omarthiside/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Omarthiside/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
