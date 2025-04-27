@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Omarthiside/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Omarthiside/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Omarthiside/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Omarthiside/Leetcode/tree/master/0013-roman-to-integer) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Omarthiside/Leetcode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/Omarthiside/Leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Omarthiside/Leetcode/tree/master/2050-count-good-numbers) |
 ## Memoization
@@ -645,4 +647,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Omarthiside/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Omarthiside/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
