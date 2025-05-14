@@ -1,12 +1,9 @@
 class Solution {
  public:
-  // Similar to 3335. Total Characters in String After Transformations I
   int lengthAfterTransformations(string s, int t, vector<int>& nums) {
-    // T[i][j] := the number of ways to transform ('a' + i) to ('a' + j)
     const vector<vector<int>> T = getTransformationMatrix(nums);
     const vector poweredT = matrixPow(T, t);
     vector<int> count(26);
-    // lengths[i] := the total length of ('a' + i) after t transformations
     vector<long> lengths(26);
 
     for (const char c : s)
@@ -51,7 +48,6 @@ class Solution {
     return C;
   }
 
-  // Returns M^n.
   vector<vector<int>> matrixPow(const vector<vector<int>>& M, int n) {
     if (n == 0)
       return getIdentityMatrix(M.size());
