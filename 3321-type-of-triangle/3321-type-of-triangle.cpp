@@ -14,8 +14,6 @@ public:
         }else{
             return "scalene";
         }
-        if(a+b<c || b+c<a || a+c<b){
-            return "none";
-        }
+        
     }
 };
