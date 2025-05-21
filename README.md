@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Omarthiside/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Omarthiside/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Omarthiside/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/Omarthiside/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Omarthiside/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Omarthiside/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Omarthiside/Leetcode/tree/master/0162-find-peak-element) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Omarthiside/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Omarthiside/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Omarthiside/Leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Omarthiside/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Omarthiside/Leetcode/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/Omarthiside/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Omarthiside/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Omarthiside/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0787-sliding-puzzle](https://github.com/Omarthiside/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Omarthiside/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Omarthiside/Leetcode/tree/master/1972-rotating-the-box) |
