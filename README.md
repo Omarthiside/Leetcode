@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Omarthiside/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Omarthiside/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Omarthiside/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Omarthiside/Leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Omarthiside/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Omarthiside/Leetcode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Omarthiside/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Omarthiside/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Omarthiside/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Omarthiside/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Omarthiside/Leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Omarthiside/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Omarthiside/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/Omarthiside/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Omarthiside/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Omarthiside/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Omarthiside/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Omarthiside/Leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3548-find-the-count-of-good-integers](https://github.com/Omarthiside/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Omarthiside/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Omarthiside/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
