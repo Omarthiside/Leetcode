@@ -18,10 +18,7 @@ class Solution {
         length += 2;
         x *= x;
       }
-      // x is now x^k, and the pattern is [x, ..., x^(k/2), x^(k/2), ..., x].
-      // The goal is to determine if we can insert x^k in the middle of the
-      // pattern to increase the length by 1. If not, we make x^(k/2) the middle
-      // and decrease the length by 1.
+      
       ans = max(ans, length + (count.contains(x) ? 1 : -1));
     }
 
